@@ -1,2 +1,6 @@
 # Notebook checkpoints
 .ipynb_checkpoints
+
+#Images
+*.png
+
